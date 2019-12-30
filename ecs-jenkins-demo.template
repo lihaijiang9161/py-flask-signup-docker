@@ -88,7 +88,7 @@
       "us-west-1"       : { "PV64": "ami-d514f291", "HVM64": "ami-d114f295" },
       "eu-west-1"       : { "PV64": "ami-bf0897c8", "HVM64": "ami-a10897d6" },
       "eu-central-1"    : { "PV64": "ami-ac221fb1", "HVM64": "ami-a8221fb5" },
-      "ap-northeast-1"  : { "PV64": "ami-acd9e8fe", "HVM64": "ami-68d8e93a" },
+      "ap-northeast-1"  : { "PV64": "ami-acd9e8fe", "HVM64": "ami-068a6cefc24c301d2" },
       "ap-southeast-1"  : { "PV64": "ami-27f90e27", "HVM64": "ami-cbf90ecb" },
       "ap-southeast-2"  : { "PV64": "ami-ff9cecc5", "HVM64": "ami-fd9cecc7" },
       "sa-east-1"       : { "PV64": "ami-fd9925e0", "HVM64": "ami-b52890a8" }
